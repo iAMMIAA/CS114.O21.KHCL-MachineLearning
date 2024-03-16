@@ -1,0 +1,6 @@
+Thầy cho thực hành trên wecode và hướng dẫn một số bài trên wecode.
+Ngoài ra còn take note:
+- lệnh để đo thời gian chạy của một file python là: time python file.py
+- code chạy phải có thời gian giới hạn
+- cách xử lý bài tính hình vuông là sử dụng vecto
+- tất cả các bài đều phải thử hết các test case mới bảo đảm.

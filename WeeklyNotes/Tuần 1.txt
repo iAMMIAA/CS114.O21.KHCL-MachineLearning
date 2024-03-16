@@ -1,0 +1,18 @@
+- Ngoài việt dùng công cụ gemini để trả lời các câu hỏi: Tạo sao lại học máy học, học như thế nào, ... thầy đã đưa ra một câu trả lời theo chính kiến của thầy. 
+Ví dụ: 
+Tại sao lại học máy học?
++ Hiện nay đang là thế hệ 4.0, công nghệ đang làm chủ, ví dụ như iphone có thể thay đổi trong vòng 3 năm sử dụng, nhưng những vật dụng như máy giặt, tivi có thể dùng lâu tới tận 10 năm. Từ đó cho thấy sự mạnh mẽ của công nghệ ngày nay. 
++ Các nền tảng công nghệ nổi tiếng như: facebook, tiktok, ... là những ứng dụng được đại đa số mọi người trên thế giới sử dụng. Mà những nền tảng này được thành lập bởi chính AI hay một phần của Machine learning.
++ Ngoài ra, mô hình AI sẽ bao gồm: Machine learning là một nhánh nhỏ của AI và Deep learning là một phần của Machine learning. 
+
+Học như thế nào là gì? 
++ Máy học có thể được lập trình bởi nhiều ngôn ngữ, nhưng ngôn ngữ được các nhà lập trình máy học sử dụng nhiều nhất là python. 
++ Python tuy chạy chậm nhưng ngôn ngữ ngắn ngọn.
++ Ngoài ra, python có điểm mạnh là chứa các thư viện hỗ trợ tốt cho việc đào tạo máy học như keras, scikit-learn, tensorflow, ...
++ Sau khi hoàn thành quá trình xử lý dữ liệu, huấn luyện mô hình, sẽ là quá trình tối ưu thuật toán. 
+
+- Những kỹ năng được hướng dẫn:
++ Đề xuất sử dụng công cụ AI gemini để học hỏi.
++ Sử dụng cousera đăng ký khóa học và tự học trước bài trước khi nghe thầy giảng. 
++ Giới thiệu ngôn ngữ python.
++ Hướng dẫn dùng công cụ Google colab.
