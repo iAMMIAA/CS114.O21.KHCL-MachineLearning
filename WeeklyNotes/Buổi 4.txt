@@ -1,0 +1,14 @@
+Machine learning chia làm 2 loại chính: 
+- Supervised learning (học có nhãn) 
+- Unsupervised learning (học không nhãn)
+
+Cụ thể:
+- Supervised learning bao gồm 2 loại: classification (bài toán phân loại) và Regression (bài toán hồi quy)
++ Classification là dự đoán một biến phụ rời rạc hoặc phân loại dữ liệu vào 1 số lớp khác nhau. 
++ Regression là dạng bài toán dự đoán một giá trị thực phụ thuộc liên tục dựa trên các biến độc lập.
+- Unsupervised learning bao gồm Clustering được dùng để phân cụm dữ liệu không được gán nhãn vào các nhóm có tính chất tương đồng. Mục tiêu của Clustering là tìm ra cấu trúc ẩn trong dữ liệu mà không cần có thông tin nhãn trước.
+
+Data: biểu diễn trong máy tính dưới dạng bit.
+Từ data ta có thể liên tưởng tới các task, ví dụ như phân loại thư rác hoặc dự báo thời tiết.
+Từ các task, ta cần nghĩ ngay đến 2 phần chính là Input và Output. 
+Ví dụ, để phân loại rác, ta cho máy tính học một tập dataset chưa n file ảnh dưới định dạng file .jpg được chia thành 3 lớp đã được gắn nhãn: rác thải tái chế được, rác thải không tái chế được và rác thải sinh học. Như vậy lúc này, tập dataset ta cho máy tính học chính là input. Và output sẽ là tên loại rác mà máy tính đưa ra dự đoán. Đây là một ví dụ cho bài toán classification (supervised learning).

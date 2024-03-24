@@ -1,0 +1,11 @@
+Máy học học gì?
+Có ví dụ:
+- Machine translation ENG -> VN
+Các bước thực hiện xác định rules => các vấn đề khi thực hiện: 
+Lập trình thông thường (Traditional programming)
+- Không cover được các rules.
+- Không code được.
+- Nếu đổi ENG => Korean => quay lại bước xác định rules.
+- Performance không cao.
+=> Thay đổi hướng tiếp cận Machine Learning (thay vì lập trình viên tìm rules, lập trình viên có thể lập trình để máy tính tự động tìm rules bằng cách cung cấp cho máy tính dữ liệu huấn luyện (training data) => Mô phỏng quá trình học). 
+=> Large Language Model – Foundation Models.
